@@ -1,2 +1,1 @@
-# subtree-p parent project
-p 2
+kidsit change README for p
